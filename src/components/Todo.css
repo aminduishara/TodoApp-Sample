@@ -1,0 +1,12 @@
+.todo__name{
+    font-size: 18px;
+}
+
+.todo__status {
+    font-size: 16px;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
